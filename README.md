@@ -13,3 +13,10 @@ RA: 419105510
 
 Felipe José da Silva
 RA: 2218201188
+
+# Apresentação
+
+O principal objetivo desse trabalho é informar de forma gráfico, resultados obtidos a partir de um conjunto de dados de acidentes aerios, manipulando os mesmo e fazendo alterações relavantes para a aobtenção de melhores resultados.
+
+Através do projeto é interessante observar diversos painéis contentando resultados e estatisticas diferentes que informam as principais categorias de causas e efeitos durante as decolagens.
+
