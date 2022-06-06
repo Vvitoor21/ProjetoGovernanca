@@ -20,3 +20,5 @@ O principal objetivo desse trabalho é informar de forma gráfico, resultados ob
 
 Através do projeto é interessante observar diversos painéis contentando resultados e estatisticas diferentes que informam as principais categorias de causas e efeitos durante as decolagens.
 
+Os principais pontos levantas foram as quantidades de acidentes ao todo, comparados com o brasil, através de aeronaves liberadas, tipos de acidentes, principais estados e entre outros...
+
